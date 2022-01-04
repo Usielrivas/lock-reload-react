@@ -2,6 +2,10 @@
 
 To achieve this function, use the effect hook to execute the beforeunload event. To use this function, just import the Lockreload.jsx component into its main component or app.js.
 
+## Demo
+
+https://codesandbox.io/s/lock-reload-in-react-9uwoh?file=/src/LockReload/Lockreload.jsx
+
 ## Details to take into account.
 
 - Displaying a custom message in the dialog box is no longer allowed for this event.
