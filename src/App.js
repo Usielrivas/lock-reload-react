@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Lockreload from './LockReload/Lockreload';
 
 function App() {
   return (
@@ -17,7 +18,11 @@ function App() {
         >
           Learn React
         </a>
+      <input />
       </header>
+
+    <Lockreload msg="someone" />
+
     </div>
   );
 }
