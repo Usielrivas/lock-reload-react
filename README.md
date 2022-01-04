@@ -12,6 +12,6 @@ To achieve this function, use the effect hook to execute the beforeunload event.
 
 Although browsers don't display a custom message, you can try including one. This is not a guarantee that it will be displayed.
 
-`` ''
+```
 <Lockreload msg = "someone" />
-`` ''
+```
